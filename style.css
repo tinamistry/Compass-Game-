@@ -1,0 +1,39 @@
+.compass #top1{
+    padding: 50px;
+    text-align: center;
+
+}
+.compass #left1{
+   padding: 50px;
+    text-align: center;
+}
+.compass #right1{
+    padding: 50px;
+    text-align: center;
+}
+.compass #bottom1{
+    padding: 50px;
+    text-align: center;
+}
+.compass #leftArrow{
+    padding-top: 70px;
+    padding-left: 75px;
+}
+.compass #middleArrow{
+    padding-left: 25px;
+    padding right: 75px;
+    padding-top: 65px;
+    padding-bottom:75px;
+}
+.compass #rightArrow{
+    padding-bottom: 100px;
+}
+.compass #arrow1{
+    transform: rotate(-45deg);
+    background-image: url('blue-double-sided-arrow.png') no-repeat;
+}
+.compass #arrow3{
+    transform: rotate(-45deg);
+}
+.directions{font-size: x-large; color: red; }
+.italic{font-style: italic}
